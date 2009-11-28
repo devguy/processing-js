@@ -1,2 +1,3 @@
 // Draws a green square...
 background( 0, 255, 0 );
+alert( tutorial() );

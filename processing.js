@@ -397,7 +397,11 @@
     // The current animation frame
     p.frameCount = 0;            
     
-    
+
+    p.tutorial = function tutorial(){
+      return "HEY!";
+    }    
+        
 
     ////////////////////////////////////////////////////////////////////////////
     // Array handling
